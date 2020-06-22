@@ -21,7 +21,7 @@ public class Contrasenya {
 
     public static String Validacio (String Password) {
 
-        String resultat = "Contrasenya correcta!";    // Resultat de password valido
+        String resultat = "Contrasenya correcta!!";    // Resultat de password valido
         int length = 0;                     // Variable per la longitud de la contrasenya
         int numCount = 0;                   // Variable pel número de números utilitzats
         int letCount = 0;                   // Variable pel número de lletres utilitzades
